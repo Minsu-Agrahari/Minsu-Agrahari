@@ -98,7 +98,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 
 </div> -->
 
----
+<!-- --- -->
 
 # 🔥 GitHub Streak
 
@@ -110,7 +110,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 
 ---
 
-# 🏆 GitHub Trophies
+<!-- # 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -118,7 +118,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 
 </div>
 
----
+--- -->
 
 # 📈 Contribution Graph
 
@@ -128,7 +128,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 
 </div>
 
----
+<!-- --- -->
 
 <!-- # 🚀 Featured Projects
 
@@ -177,7 +177,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 ---
 <div align="center">
 
-### 🚀 “Code. Build. Learn. Repeat.”
+###  "🚀 Consistency beats motivation. 💪”
 
 </div>
+
 ---
