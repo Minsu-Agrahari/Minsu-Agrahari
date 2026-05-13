@@ -85,7 +85,7 @@ style="border-radius:15px;" />
 </div>
 
 ---
-
+<!-- 
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -96,7 +96,7 @@ src="https://github-readme-stats.vercel.app/api?username=Minsu-Agrahari&show_ico
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agrahari&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&cache_seconds=1800"/>
 
-</div>
+</div> -->
 
 ---
 
@@ -164,7 +164,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 
 </div>
 
----
+<!-- ---
 
 # 🟡 Pacman Contribution Graph
 
@@ -172,7 +172,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 
 <img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/pacman-contribution-graph.svg" />
 
-</div>
+</div> -->
 
 ---
 <div align="center">
