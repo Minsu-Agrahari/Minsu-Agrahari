@@ -57,22 +57,6 @@ style="border-radius:15px;" />
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://twitter.com/minsuagrahari" target="blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="50" />
-</a>
-<a href="https://www.linkedin.com/in/minsu-agrahari/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-<a href="https://github.com/Minsu-Agrahari" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-</p>
-
----
-
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -98,17 +82,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 
 </div> -->
 
-<!-- --- -->
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Minsu-Agrahari&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
 
 <!-- # 🏆 GitHub Trophies
 
@@ -127,6 +101,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minsu-Agrahari&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Minsu-Agrahari&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
 
 <!-- --- -->
 
@@ -175,10 +160,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 </div> -->
 
 ---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/minsuagrahari" target="blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="50" />
+</a>
+<a href="https://www.linkedin.com/in/minsu-agrahari/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+<a href="https://github.com/Minsu-Agrahari" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+</p>
+
+---
+
+
 <div align="center">
 
 ###  "🚀 Consistency beats motivation. 💪”
 
 </div>
+
 
 ---
