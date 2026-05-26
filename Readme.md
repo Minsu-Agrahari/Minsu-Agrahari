@@ -129,7 +129,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 
 </div> -->
 
----
+<!-- ---
 
 # 💻 Quote of the Day
 
@@ -137,7 +137,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+</div> -->
 
 ---
 
