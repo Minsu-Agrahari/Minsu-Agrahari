@@ -14,20 +14,11 @@
 
 <div align="center">
 
-<!-- <img src="https://komarev.com/ghpvc/?username=minsu-agrahari&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Minsu-Agrahari?logo=github&style=for-the-badge" alt="followers" /> -->
-
 ![Frontend](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white)      ![Backend](https://img.shields.io/badge/Backend-Node.js-yellow?style=for-the-badge&logo=node.js&logoColor=white)                                     ![Database](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
-<!-- <img src="https://img.shields.io/github/stars/Minsu-Agrahari?logo=github&style=for-the-badge" alt="stars" /> -->
 
 </div>
 
 ---
-
 
 # 💫 About Me
 
@@ -61,38 +52,11 @@ style="border-radius:15px;" />
 
 <div align="center">
 
-<!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,java,docker,git,github,redux,firebase,postman,vscode&perline=7" /> -->
-
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,java,docker,git,github,postman,vscode&theme=dark&perline=7" />
 
 </div>
 
 ---
-<!-- 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Minsu-Agrahari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agrahari&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&cache_seconds=1800"/>
-
-</div> -->
-
-
-
-<!-- # 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Minsu-Agrahari&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
---- -->
 
 # 📈 Contribution Graph
 
@@ -103,49 +67,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 </div>
 
 ---
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Minsu-Agrahari&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
-
-<!-- --- -->
-
-<!-- # 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Minsu-Agrahari">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minsu-Agrahari&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Minsu-Agrahari">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minsu-Agrahari&repo=YOUR_SECOND_REPO&theme=tokyonight&hide_border=true" />
-</a>
-
-</div> -->
-
-<!-- ---
-
-# 💻 Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div> -->
-
----
-
-<!-- # 🐍 Contribution Snake -->
-
-<!-- <div align="center">
-
-<img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/github-contribution-grid-snake.svg" /> -->
 
 # 🐍 Contribution Snake
 
@@ -169,15 +90,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu-Agraha
 </picture>
 
 </div>
-
-<!-- # 🟡 Pacman Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Minsu-Agrahari/Minsu-Agrahari/output/pacman-contribution-graph.svg" />
-
-</div> -->
-
 
 # 🌐 Connect With Me
 
