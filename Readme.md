@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="assets/profile-card.svg" alt="Minsu Agrahari - terminal profile card" width="100%" />
+<img src=".github/assets/profile-card.svg" alt="Minsu Agrahari - terminal profile card" width="100%" />
 
 </div>
 
