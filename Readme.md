@@ -1,25 +1,3 @@
-<div align="center">
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:6C63FF,100:FF3CAC&height=260&section=header&text=Minsu%20Agrahari&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descAlignY=62&descSize=22" width="100%" /> -->
-
-<a href="https://github.com/Minsu-Agrahari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Minsu+Agrahari;Full+Stack+Developer+%F0%9F%92%BB;React+%26+React+Native+Developer+%F0%9F%93%B1;Building+Modern+Web+%26+Mobile+Apps+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%A7%A0" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Minsu-Agrahari&label=VIEWS&color=00F7FF&style=for-the-badge&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/Minsu-Agrahari?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/Minsu-Agrahari?style=for-the-badge&logo=github&color=FF3CAC&labelColor=0D1117)
-![Repos](https://img.shields.io/github/repositories/Minsu-Agrahari?style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117)
-
-![Open to Work](https://img.shields.io/badge/Open_to-Collaborate-00C853?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D1117)
-![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-6C63FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-</div>
-
 ## 👋 &nbsp;Hello, World!
 
 <div align="center">
