@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:6C63FF,100:FF3CAC&height=260&section=header&text=Minsu%20Agrahari&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descAlignY=62&descSize=22" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:6C63FF,100:FF3CAC&height=260&section=header&text=Minsu%20Agrahari&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descAlignY=62&descSize=22" width="100%" /> -->
 
 <a href="https://github.com/Minsu-Agrahari">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Minsu+Agrahari;Full+Stack+Developer+%F0%9F%92%BB;React+%26+React+Native+Developer+%F0%9F%93%B1;Building+Modern+Web+%26+Mobile+Apps+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%A7%A0" alt="Typing SVG" />
