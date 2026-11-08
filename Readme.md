@@ -17,22 +17,18 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=java,js,ts,html,css&perline=10" />
 
-### Frameworks & Libraries
+### Frameworks & Runtime
 <img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" />
+
+### Libraries
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=10" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker&perline=10" />
-<br/><br/>
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
