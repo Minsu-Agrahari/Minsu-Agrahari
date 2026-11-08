@@ -14,10 +14,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,express&perline=10" />
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb,mysql,postgres,docker&perline=10" />
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&perline=10" />
 
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=10" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker&perline=10" />
 <br/><br/>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
